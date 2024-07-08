@@ -1,0 +1,5 @@
+../StateMachine/EngineStateMachine.c:28:6:EngineControlTaskInit	40	static
+../StateMachine/EngineStateMachine.c:40:6:RunningState	4	static
+../StateMachine/EngineStateMachine.c:44:6:GetDataState	8	static
+../StateMachine/EngineStateMachine.c:50:6:ControlSpeedState	8	static
+../StateMachine/EngineStateMachine.c:57:6:RecoveryState	4	static
